@@ -8,9 +8,9 @@
 - Update: Modify existing records with inline or modal forms.
 - Delete: Remove records with a confirmation step to prevent accidental deletions.
 # Technologies Used
-- Frontend
+<h1> Frontend</h1>
 - ReactJS: For building the user interface and managing state.
 - Tailwind CSS: For responsive and modern styling.
-- Backend
+<h1>Backend</h1> 
 - Django: As the web framework for API creation and database interaction.
 - SQLite: Lightweight database for local storage of records.
