@@ -9,8 +9,8 @@
 - Delete: Remove records with a confirmation step to prevent accidental deletions.
 # Technologies Used
 - Frontend
--- ReactJS: For building the user interface and managing state.
--- Tailwind CSS: For responsive and modern styling.
+- ReactJS: For building the user interface and managing state.
+- Tailwind CSS: For responsive and modern styling.
 - Backend
--- Django: As the web framework for API creation and database interaction.
--- SQLite: Lightweight database for local storage of records.
+- Django: As the web framework for API creation and database interaction.
+- SQLite: Lightweight database for local storage of records.
